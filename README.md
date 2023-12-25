@@ -8,7 +8,9 @@
 
 
 🔗git clone https://github.com/HM-BORHAN-BLACK-HOLE-CYBER/termux-style.git
-cd termux-style && chmod +x install
+
+
+🔗cd termux-style && chmod +x install
 
 
 🔗./install
